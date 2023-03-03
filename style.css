@@ -34,7 +34,8 @@ body {
     transform: rotate(var(--rotation));
 }
 
-.clock .number1 {
+
+/* .clock .number1 {
     --rotation: 30deg;
 }
 
@@ -72,11 +73,12 @@ body {
 
 .clock .number10 {
     --rotation: 300deg;
-}
+} */
 
-.clock .number11 {
+
+/* .clock .number11 {
     --rotation: 330deg;
-}
+} */
 
 .clock .hand {
     --rotation: 0;
@@ -113,7 +115,7 @@ body {
 
 .clock .hand.minute {
     width: 10px;
-    height: 40%;
+    height: 38%;
     background-color: black;
 }
 
